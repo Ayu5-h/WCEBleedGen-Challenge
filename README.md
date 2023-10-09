@@ -26,11 +26,33 @@ Detecting bleeding frames in the captured video is crucial for identifying and t
 <br/>
 <br/>
 <br/>
-<img width="587" alt="Screenshot 2023-10-09 at 4 36 52 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/d1563997-c429-4874-912c-70af2448dbde">
-<br/>
-<br/>
-<br/>
+<img width="580" alt="Screenshot 2023-10-09 at 4 49 20 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/59f047cd-353b-42f2-8f29-d225551e049a">
 
+<br/>
+<br/>
+<br/>
+<br/>
+<img width="580" alt="Screenshot 2023-10-09 at 4 47 01 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/645fed26-4573-4fbf-85ca-07113cd3132a">
+
+<br/>
+<br/><br/><br/>
+
+![A0004](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/801dc157-7048-41c1-9cc9-2780943c5142)
+![A0003](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/34d4f4d8-248a-4ba2-bbf2-b62c273e49dc)
+![A0002](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/1a5ddfd9-4263-4063-80d4-577f01b303b1)
+![A0001](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/a3df0104-b60b-4f5f-bd30-2ef6ccba6e14)
+![A0000](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/15bcb53e-b49a-4bbe-a35c-c6365c280458)
+![A0049](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/8022f24f-1bff-40f7-8070-cd183c3807b9)
+![A0048](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/1f3c4cf5-7d5e-47e2-b81a-b0a3ffba2b57)
+![A0047](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/c9e0a012-c12c-4547-baf3-84417fc6fbc1)
+
+<br/><br/><br/>
+<br/><br/><br/>
+![A0261](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/9c097369-37f8-4ea0-b360-edee9171d8fb)
+![A0260](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/9b525575-bbd1-41a7-98d7-d32e8f06b307)
+![A0259](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/0485aafa-3fc5-4efa-9a07-cea0b1f98264)
+![A0258](https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/4e4659f1-624f-42a3-b2ce-2f8d419c6fd7)
+<br/><br/><br/>
 
 - **Detection of Bleeding Frames:**<br/>
 Machine learning and computer vision algorithms are applied to the video frames or images captured by the capsule endoscope.<br/>
