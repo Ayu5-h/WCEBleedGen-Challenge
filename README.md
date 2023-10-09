@@ -7,6 +7,16 @@
 Capsule endoscopy is used for diagnosing and monitoring various GI disorders, including gastrointestinal bleeding, Crohn's disease, and tumors.<br/>
 Detecting bleeding frames in the captured video is crucial for identifying and treating GI bleeding conditions promptly.<br/>
 <br/>
+<br/>
+
+
+- Precision: 0.9699248<br/>
+- Recall: 0.96268654<br/>
+- Binary Accuracy: 0.964<br/>
+- F1 score is 0.96629214<br/>
+
+<br/>
+
 - **Detection of Bleeding Frames:**<br/>
 Machine learning and computer vision algorithms are applied to the video frames or images captured by the capsule endoscope.<br/>
 Bleeding frames are identified by analyzing color, texture, and shape features, as well as changes in pixel intensity.<br/>
