@@ -16,6 +16,21 @@ Detecting bleeding frames in the captured video is crucial for identifying and t
 - F1 score is 0.96629214<br/>
 
 <br/>
+<img width="560" alt="Screenshot 2023-10-09 at 4 37 04 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/602aedd9-2a69-4c03-ae92-8505b5b03864">
+<br/>
+<br/>
+<br/>
+<br/>
+<img width="560" alt="Screenshot 2023-10-09 at 4 37 07 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/882efcc2-ac83-48cd-853f-f65fc42def1d">
+<br/>
+<br/>
+<br/>
+<br/>
+<img width="587" alt="Screenshot 2023-10-09 at 4 36 52 PM" src="https://github.com/Ayu5-h/WCEBleedGen-Challenge/assets/107213166/d1563997-c429-4874-912c-70af2448dbde">
+<br/>
+<br/>
+<br/>
+
 
 - **Detection of Bleeding Frames:**<br/>
 Machine learning and computer vision algorithms are applied to the video frames or images captured by the capsule endoscope.<br/>
